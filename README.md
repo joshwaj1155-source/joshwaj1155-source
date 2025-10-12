@@ -4,12 +4,30 @@
 <h2>
   I am an Aspiring Software Engineering Student that is currently studing at the University of Surrey as a Second Year Computer Science Student. 
 </h2>
+
+
+<h3> My journey in computer Science has lead me to develop a passion for software engineering ,
+  and I am now eager to transtion into the field, </h3>
 <h3>👨‍💻 Software Development Projects:</h3>
 <h4>  <a href = "https://github.com/joshwaj1155-source/Seed-Simulation-Game-" > - Seed Simulation game </a></h4>
 
 <h4>  <a href = "https://github.com/joshwaj1155-source/Object-Oriented-Programming-" > - Object Oriented Programming  </a></h4>
 
 <h4>  <a href = "https://github.com/joshwaj1155-source/Rock-paper-Scissors" > - Rock Paper Sissors </a></h4>
+
+<h3>👨‍💻 Skills:</h3>
+
+<h4>Data Structures & Algorithms </h4> <b>
+<h4>Object Oriented Programming  </h4>
+<h4>Python </h4>
+<h4>Java</h4>
+<h4> SQL </h4>
+  
+</b>
+<h3>👨‍💻 Certificates:</h3>
+
+
+
        
 
 
