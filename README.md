@@ -6,8 +6,9 @@
 </h2>
 
 
-<h3> My journey in computer Science has lead me to develop a passion for software engineering ,
-  and I am now eager to transtion into the field, </h3>
+<h3> My journey in Computer Science has lead me to develop a passion for Software Engineering ,
+  and I am now eager to transtion into the field.  </h3>
+  
 <h3>👨‍💻 Software Development Projects:</h3>
 <h4>  <a href = "https://github.com/joshwaj1155-source/Seed-Simulation-Game-" > - Seed Simulation game </a></h4>
 
@@ -24,8 +25,10 @@
 <h4> SQL </h4>
   
 </b>
-<h3>👨‍💻 Certificates:</h3>
+<h3>👨‍💻 Certificates:</h3
 
+                     
+![image alt](https://github.com/joshwaj1155-source/joshwaj1155-source/blob/842f88522ece0844868b0808f02888f7365e627e/Screenshot%202025-10-12%20213825.png)
 
 
        
