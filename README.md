@@ -6,6 +6,10 @@
 </h2>
 <h3>👨‍💻 Software Development Projects:</h3>
 <h4>  <a href = "https://github.com/joshwaj1155-source/Seed-Simulation-Game-" > - Seed Simulation game </a></h4>
+
+<h4>  <a href = "https://github.com/joshwaj1155-source/Object-Oriented-Programming-" > - Object Oriented Programming  </a></h4>
+
+<h4>  <a href = "https://github.com/joshwaj1155-source/Rock-paper-Scissors" > - Rock Paper Sissors </a></h4>
        
 
 
